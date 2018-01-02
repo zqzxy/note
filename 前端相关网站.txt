@@ -1,0 +1,24 @@
+jquery之家
+阿里巴巴矢量图库
+http://caniuse.com/  查看浏览器兼容性
+http://nate-river.github.io/css3/  CSS3属性
+a.singlediv.com  用一个div做出来的效果
+github       合作完成网站
+www.jq22.com   jquery插件库
+bootstrap中文网//http://v3.bootcss.com/
+www.sharethemes.cn/
+https://developer.mozilla.org/zh-CN/             MDN
+http://mirohristov.com/v5/
+http://cihadturhan.com/
+shizhihua.duapp.com
+http://www.cssmoban.com/cssthemes/5643.shtml     webapp网站
+http://www.atyty.cn/3g/     移动端  天艺沙画
+http://lbsyun.baidu.com/      地图生成器
+http://share.baidu.com/                         百度分享
+知乎日报
+码市
+https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=20161122  微信小程序文档
+80b9d6a3ae3041debdec48495d0cee1b
+9Nh5wMG2cDaY9EcSfasqrCF3xH2TvFe1  百度地图AK
+wx498ac825301603df   APPID
+fb7e3fb4ae0060a815cae08d6ad35749  APP秘钥
